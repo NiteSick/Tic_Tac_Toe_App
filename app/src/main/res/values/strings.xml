@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="score_reseting">Reset Score</string>
+    <string name="textviewText">Turn X</string>
+</resources>
